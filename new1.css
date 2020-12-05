@@ -98,7 +98,7 @@ section pre{
 
 form select 
 {  
-    color:#000000;
+   color: #02005c;
     font-size: 15px;
     font-weight:900;
     background: transparent;
@@ -364,7 +364,7 @@ footer{
 label{
     display: block;
     font-size: 200%;
-    
+    color:rgb(42, 8, 134);
 }
 .fa-chevron-circle-down:hover ul 
 {
